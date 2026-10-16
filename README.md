@@ -66,7 +66,9 @@ levels recorded.</b></br>
                     )</br>
 <br>table(licorice_gargle$treat)<br>
 table(treatment)</br>
-
-        
+<br>treatment<br>
+   sugar licorice <br>
+     117      118 
+        </br>
 
 
