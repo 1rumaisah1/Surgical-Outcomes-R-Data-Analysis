@@ -60,6 +60,13 @@ levels recorded.</b></br>
     <img width="499" height="452" alt="62067a9f-2418-467b-80c8-75d57109dd27" src="https://github.com/user-attachments/assets/a6e46692-7084-4da7-b388-456952f8085d" />
 </br>
         <br>treatment <- LG$treat - <b> The treatment is recorded as 0 = licorice 0.5g, 1 = sugar 5g.</b></br>
+       <br> treatment <- factor(licorice_gargle$treat,<br>
+                    levels = c(0,1),<br>
+                    labels = c("sugar","licorice")<br>
+                    )</br>
+<br>table(licorice_gargle$treat)<br>
+table(treatment)</br>
+
         
 
 
