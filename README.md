@@ -1,4 +1,4 @@
-# licorgice-gargle-R-Data-Analysis
+# licorgice-gargle-R-Data-Analysis-wip
 <br>Data analysis of an open source surgical dataset - Indexing, creating graphs, sorting, etc.</br>
 <br>install.packages("medicaldata") -- 19 datasets, for reprodiucible medical research w/ R </br>
 <br>library(medicaldata)</br>
